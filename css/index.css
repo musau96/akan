@@ -26,3 +26,13 @@ input[type=submit]{
   background-color:black;
   box-shadow: 10px 10px white #34495E;
 }
+.footer {
+  height: 15%;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:black;
+  color: white;
+  text-align: center;
+  margin-top:15%;                                                                    
+}
