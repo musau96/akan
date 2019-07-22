@@ -1,5 +1,4 @@
 body {
-  background-color: #BFC9CA;
   background-image: url("https://pixelz.cc/wp-content/uploads/2018/07/blue-sky-and-desert-dunes-uhd-4k-wallpaper.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -35,4 +34,11 @@ input[type=submit]{
   color: white;
   text-align: center;
   margin-top:15%;                                                                    
+}
+
+input[type=text] {
+  width: 35%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
 }
