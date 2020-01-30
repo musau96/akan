@@ -1,5 +1,5 @@
-#akan name discovery
-#### akan name discove it tells the akan name corresponding to your birth day, july 20 2019
+###Akan name discovery
+#### akan name discovery  tells the akan name corresponding to your birth day, july 20 2019
 ### By Muyenzi Raissa
 ## Description
 this is akan name discovery tells akan names.user enters her/his birth date the depending on her birth day gets her akana name
